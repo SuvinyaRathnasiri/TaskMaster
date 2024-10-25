@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/Widget.TaskMaster.AppWidget.Container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C8B3ED"
+    android:theme="@style/Theme.TaskMaster.AppWidgetContainer">
+
+    <Button
+        android:id="@+id/openWebButton"
+        android:layout_width="188dp"
+        android:layout_height="wrap_content"
+        android:text="@string/appwidget_text" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="177dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/openWebButton"
+        android:layout_marginTop="10dp"
+        android:text="No tasks for today"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="16sp" />
+</RelativeLayout>

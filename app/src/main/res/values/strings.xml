@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Task Master</string>
+    <string name="app_title">Task Master</string>
+    <string name="onb">Welcome to Task Master</string>
+
+    <string name="onb1">The secret of getting ahead is getting started.</string>
+    <string name="btn">Let\'s Start</string>
+
+    <string name="home">Home Page</string>
+    <string name="home_td">Today\'s Progress Summary</string>
+    <string name="home_tdn">Today tasks -</string>
+    <string name="home_today">Today\'s Tasks</string>
+    <string name="home_add">Add Tasks</string>
+
+    <string name="task">Create a New Task</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_name_h">Task Name</string>
+    <string name="task_Des">Task Description</string>
+    <string name="task_Des_h">Task Description</string>
+    <string name="task_date">Date</string>
+    <string name="task_date_h">Date</string>
+    <string name="task_time">Time</string>
+    <string name="task_time_h">Time</string>
+    <string name="task_save">Save</string>
+    <string name="task_cancel">Cancel</string>
+    <string name="task_add">Add Task</string>
+
+    <string name="taskList">Task List</string>
+    <string name="taskList_btn">Edit</string>
+    <string name="taskList_btn1">Delete</string>
+
+    <string name="taskEdit">Edit Task</string>
+    <string name="taskEdit_btn">Edit</string>
+
+    <string name="login">Hi, Welcome Back!</string>
+    <string name="Login_">Hello again, you have been missed!</string>
+    <string name="login_username">User Name</string>
+    <string name="login_username_">Enter User Name</string>
+    <string name="login_password">Password</string>
+    <string name="login_password_">Enter Password</string>
+    <string name="login_btn">Login</string>
+
+    <string name="appwidget_text">Open Task Master</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+
+    <string name="profile">Profile</string>
+
+
+</resources>
+
